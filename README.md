@@ -9,7 +9,6 @@ Projeto desenvolvido com foco em praticar conceitos modernos de **CSS**, criando
 - [x] 🔲 CSS Grid no layout
 - [x] 📌 Header com `position: sticky`
 - [x] 📱 Media query para celulares
-- [x] 📏 No máximo 50 linhas de CSS
 - [x] 🚫 Sem frameworks
 - [x] 🚫 Sem JavaScript
 - [x] 🚫 Sem alterações no HTML
