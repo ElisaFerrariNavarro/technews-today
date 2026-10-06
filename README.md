@@ -1,6 +1,5 @@
 ## technews-today
 
-
 Projeto desenvolvido com foco em praticar conceitos modernos de **CSS**, criando uma interface visualmente agradável sem utilizar frameworks ou JavaScript.
 
 ## 📋 Checklist antes da entrega
@@ -53,4 +52,10 @@ Uma interface moderna, responsiva e estilizada com **Glassmorphism**, seguindo t
 
 **Desafio concluído!** 
 
-## 
+##  Observações 👁️
+
+- Essa é uma atividade do curso de Técnico em Desenvolvimento de Sistemas SENAI-SP
+
+- Turma: 1IE-DS
+
+- Autor: Elisa Ferrari Navarro
