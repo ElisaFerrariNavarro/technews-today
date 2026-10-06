@@ -1,4 +1,4 @@
-## technews-today
+# technews-today
 
 Projeto desenvolvido com foco em praticar conceitos modernos de **CSS**, criando uma interface visualmente agradável sem utilizar frameworks ou JavaScript.
 
