@@ -46,7 +46,8 @@ O projeto utiliza **Media Queries** para adaptar o layout a diferentes tamanhos 
 
 Uma interface moderna, responsiva e estilizada com **Glassmorphism**, seguindo todas as restrições propostas.
 
-//img//
+<img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/d9590ca5-b65f-47ee-9f3f-18cbc6bc6d83" />
+
 
 ## ✅ Status
 
